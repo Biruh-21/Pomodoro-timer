@@ -1,5 +1,5 @@
 # Pomodoro-timer
-A python tkinter app to beat procrastination and improve your focus one pomodoro at a time. Pomodoro is Italian for 'tomato'.
+A python tkinter app to beat procrastination and improve your focus one pomodoro at a time.
 
 The secret to effective time management is...thinking in tomatoes rather than hours? It may seem silly at first, but millions of people swear by the life-changing power to the Pomodoro Technique. (Pomodoro is Italian for tomato. 🍅)
 
